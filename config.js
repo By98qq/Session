@@ -1,6 +1,6 @@
 let fs = require('fs')
 
-global.owner = ['621223918622'] // Put your number here
+global.owner = ['6283183321692'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 global.APIs = { // API Prefix
@@ -38,18 +38,18 @@ bearkey = 'https://pastelink.net/v20Md'
 ApiiKey = 'https://pastelink.net/v20Md'
 vinkey = 'vinko'
 
-namabot = 'Mikami Bot'
-namalu = 'Riyo Ofc'
-footer = '\n©King Of Bear'
+namabot = '✰𝔹𝕆𝕋 𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼✰'
+namalu = 'Bayu Ofc'
+footer = '\n©𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼'
 kasihcaption = `Nih Sayang`
 
 // Sticker WM
 global.stiker_wait = '_*Tunggu Sebentar...*_'
-global.packname = 'YukiBot Multi device'
-global.author = 'King Of Bear'
-global.email = 'drakipul1016@gmail.com'
+global.packname = 'Bot Multi device'
+global.author = '✰𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼✰'
+global.email = 'runbot1016@gmail.com'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wm = '©King Of Bear Bot-Md'
+global.wm = '©King Of Bayu Bot-Md'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 
 global.wait = '_*Tunggu Sebentar Sedang Di Proses...*_'
